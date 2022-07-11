@@ -1,9 +1,18 @@
 
 import './App.css';
+import Balance from './components/Balance';
+import Header from './components/Header';
+import IncomeExpences from './components/IncomeExpences';
 
 function App() {
   return (
-    <div>Hello worls</div>
+    <div>
+      <Header></Header>
+      <div className="container">
+        <Balance></Balance>
+        <IncomeExpences></IncomeExpences>
+      </div>
+    </div>
   );
 }
 
