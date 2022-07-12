@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/GiedreSavickiene.github.io/incom-expence-balance/static/css/main.1cfa8153.css",
-    "main.js": "/GiedreSavickiene.github.io/incom-expence-balance/static/js/main.bb5bfe40.js",
-    "static/media/Money.jpg": "/GiedreSavickiene.github.io/incom-expence-balance/static/media/Money.e33a4dee561b66afb358.jpg",
-    "index.html": "/GiedreSavickiene.github.io/incom-expence-balance/index.html",
-    "main.1cfa8153.css.map": "/GiedreSavickiene.github.io/incom-expence-balance/static/css/main.1cfa8153.css.map",
-    "main.bb5bfe40.js.map": "/GiedreSavickiene.github.io/incom-expence-balance/static/js/main.bb5bfe40.js.map"
+    "main.css": "/static/css/main.54cafbed.css",
+    "main.js": "/static/js/main.bb5bfe40.js",
+    "static/media/Money.jpg": "/static/media/Money.e33a4dee561b66afb358.jpg",
+    "index.html": "/index.html",
+    "main.54cafbed.css.map": "/static/css/main.54cafbed.css.map",
+    "main.bb5bfe40.js.map": "/static/js/main.bb5bfe40.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cfa8153.css",
+    "static/css/main.54cafbed.css",
     "static/js/main.bb5bfe40.js"
   ]
 }
