@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/GiedreSavickiene.github.io/Expence-Tracker/static/css/main.e9ad54d5.css",
-    "main.js": "/GiedreSavickiene.github.io/Expence-Tracker/static/js/main.bb5bfe40.js",
-    "static/media/Money.jpg": "/GiedreSavickiene.github.io/Expence-Tracker/static/media/Money.e33a4dee561b66afb358.jpg",
-    "index.html": "/GiedreSavickiene.github.io/Expence-Tracker/index.html",
-    "main.e9ad54d5.css.map": "/GiedreSavickiene.github.io/Expence-Tracker/static/css/main.e9ad54d5.css.map",
-    "main.bb5bfe40.js.map": "/GiedreSavickiene.github.io/Expence-Tracker/static/js/main.bb5bfe40.js.map"
+    "main.css": "/GiedreSavickiene.github.io/incom-expence-balance/static/css/main.1cfa8153.css",
+    "main.js": "/GiedreSavickiene.github.io/incom-expence-balance/static/js/main.bb5bfe40.js",
+    "static/media/Money.jpg": "/GiedreSavickiene.github.io/incom-expence-balance/static/media/Money.e33a4dee561b66afb358.jpg",
+    "index.html": "/GiedreSavickiene.github.io/incom-expence-balance/index.html",
+    "main.1cfa8153.css.map": "/GiedreSavickiene.github.io/incom-expence-balance/static/css/main.1cfa8153.css.map",
+    "main.bb5bfe40.js.map": "/GiedreSavickiene.github.io/incom-expence-balance/static/js/main.bb5bfe40.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9ad54d5.css",
+    "static/css/main.1cfa8153.css",
     "static/js/main.bb5bfe40.js"
   ]
 }
